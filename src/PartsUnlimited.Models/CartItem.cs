@@ -13,7 +13,7 @@ namespace PartsUnlimited.Models
         public int CartItemId { get; set; }
 //hello8
         [Required]
-        public string CartId { get; set; }
+        public string CartId { get; set; }//yhujj
         public int ProductId { get; set; }
         public int Count { get; set; }
 
