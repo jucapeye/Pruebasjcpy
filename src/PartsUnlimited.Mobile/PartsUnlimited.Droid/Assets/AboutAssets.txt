@@ -5,7 +5,7 @@ These files will be deployed with you package and will be accessible using Andro
 AssetManager, like this:
 
 public class ReadAsset : Activity
-{
+{7777
 	protected override void OnCreate (Bundle bundle)
 	{
 		base.OnCreate (bundle);
