@@ -3,7 +3,7 @@
 
 namespace PartsUnlimited.Models
 {
-    public class OrderDetail //local1
+    public class OrderDetail//REMOTO
     {
         public int OrderDetailId { get; set; }
 
