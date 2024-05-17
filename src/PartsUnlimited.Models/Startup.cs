@@ -1,7 +1,7 @@
 ﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
 
-using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Configuration;[cambio loal]
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using Microsoft.AspNetCore.Hosting;
