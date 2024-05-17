@@ -1,20 +1,25 @@
 ﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
 
-using System;
+using System;//moto58888
 using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
-   //hellojc7
+   //hellojc79888
     public class CartItem
     {
         [Key]
         public int CartItemId { get; set; }
 //hello8
         [Required]
+
+        public string CartId { get; set; }//yhujj
+        public int ProductId { get; set; }
+=======
         public string CartId { get; set; }
         public int ProductId { get; set; } //HELLO9
+
         public int Count { get; set; }
 
         [DataType(DataType.DateTime)]
