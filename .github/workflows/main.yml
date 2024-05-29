@@ -1,0 +1,3 @@
+name: jcpy
+on: [push]
+jobs:
